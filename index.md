@@ -1,16 +1,47 @@
-## Welcome to GenshinWikiBot Offical Website
+# GenshinWikiBot
+GenshinWikiBot is a Genshin Impact info Bot created for Discord
 
-![logo](https://images.discordapp.net/avatars/792003707591720991/e2802709de402a3d6648849a57e0e0a5.png?size=512=100x20)
+# Prefix:
+`gw.` is our bot's prefix or you can mention `@GenshinWikiBot` and type your command
 
-GenshinWikiBot is a Wiki bot inspired by the RPG game, [Genshin Impact](https://genshin.mihoyo.com/) by the company miHoYo. GenshinWikiBot provides all sorts of information about the Characters, Artifacts, Weapons, Places and more. There are more useful utilities that will be added in the latest Version of GenshinWikiBot.
+# Commands
+| Command           | Usage |
+| :------------- | ------------- |
+| `command`  | Shows the list of commands of GenshinWikiBot in a list form  |
+| `help`  | Shows the list of commands of GenshinWikiBot in paginated form  |
+| `<Character Name>`  | Shows a brief info about characters. For more info better you to use the character command. Usage: `gw.Jean`  |
+| `serverTime`  | Shows current server time for different Servers.  |
+| `charlist`  | Get the list of playable character in-game.  |
+| `character <Character Name>`  | **Character** name must be placed after command it will display in-game status of the Charcater Stated.  |
+| `artifacts <Artifact Name>`  | Show the list of artifacts if no artifact name is being placed behind. If **Artifact** name is being placed after command it will display in-game info about the **Artifact** stated  |
+| `weapon <Weapon Name>`  | Show the list of weapons if no weapon name is being placed behind. If **Weapon** name is being placed after command it will display in-game info about the **Weapon** stated  |
+| `talent <Character>`  | Display info about the Talents of the stated **Character**  |
+| `cons <Character>`  | Display info about the constellations of the stated **Character**  |
+| `liyue`  | Shows the info about Liyue  |
+| `mondstadt`  | Display info about Mondstadt  |
+| `gw.<Element>`  | Choose any element like Cyro to display info about the stated **Element** Example: `gw.cryo`  |
+| `barbatos`  | Display info about Barbatos  |
+| `morax`  | Display info about Morax  |
+| `knightsOF`   | Display info about the Knights of Favonius  |
+| `liyueQX)`     | Display info about the Liyue Qixing  |
+| `teyvat`  | Display info about the Teyvat  |
+| `anemoculus`  | Display info about the anemoculus  |
+| `geoculus`  | Display info about the geoculus  |
+| `crimsonA`  | Display info about the Crimson Agate  |
+| `about`  | Display info about the Genshin Impact extract from Wikipedia(If you want read, it is advice to read on Wikipedia for the best and experience! (0w0)  |
+| `invite`  | Invite ***GenshinWikiBot*** to any server you want!(Spreading the joy of GenshinWikiBot is the best thing to do!)  |
+| `support`  | Need help? Join our support for furthen assist. You may also join to report any bugs!  |
 
-### Current Version of GenshinWikiBot
+# ScreenShot
+![GenshinWikiBot Screenshot 1](https://i.ibb.co/0mj3PT3/screenshots-Discord-9-3-2021-8-26-48-AM-2.png=100x)
 
-V2.3
-```markdown
-    Change log for v2.3
-    New command added and Improve with better UI
-    Command: serverTime-Display server time
-```
+# Special Thanks to:
+-AnakinSkywalker#2861 for helping me for this project
+-CLWXZhe#3172 for supporting and test my bot
+-PokeLee5050#2782 for supporting and test my bot
+**More info on credit may refer to gw.credit**
+
+# Any ideas or needed support?
+***Feel free to join our support server to get support and DM me Ganyu4Life#7919 if you have any ideas on GenshinWikiBot. You may also find me on the Discord server :)***
 
 
